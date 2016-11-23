@@ -3,10 +3,6 @@ module.exports = {
         "import"
     ],
     "extends": "eslint:recommended",
-    "env": {
-        "browser": true,
-        "es6": true
-    },
     "rules": {
         "no-unsafe-negation": "error",
         "curly": [
