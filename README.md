@@ -7,7 +7,7 @@ To use in your project:
 Create a `.eslintrc.json` file and specify an `extends` property:
 ```json
 {
-    "extend": "incuna"
+    "extends": "incuna"
 }
 ```
 
