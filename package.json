@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-incuna",
+  "version": "1.0.0",
+  "description": "Incuna eslint shared config",
+  "main": "main.json",
+  "scripts": {
+    "test": "node main.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incuna/eslint-config-incuna.git"
+  },
+  "author": "Incuna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incuna/eslint-config-incuna/issues"
+  },
+  "homepage": "https://github.com/incuna/eslint-config-incuna#readme",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-import": ">= 2"
+  }
+}
