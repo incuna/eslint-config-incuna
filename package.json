@@ -2,9 +2,9 @@
   "name": "eslint-config-incuna",
   "version": "1.0.0",
   "description": "Incuna eslint shared config",
-  "main": "eslintrc.json",
+  "main": "main.json",
   "scripts": {
-    "test": "node eslintrc.json"
+    "test": "node main.json"
   },
   "repository": {
     "type": "git",
