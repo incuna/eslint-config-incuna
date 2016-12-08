@@ -94,13 +94,7 @@
                 "SwitchCase": 1
             }
         ],
-        "key-spacing": [
-            "error",
-            {
-                "beforeColon": false,
-                "afterColon": true
-            }
-        ],
+        "key-spacing": "error",
         "line-comment-position": "error",
         "new-parens": "error",
         "no-inline-comments": "error",
