@@ -68,16 +68,25 @@
         "no-use-before-define": "error",
         "array-bracket-spacing": [
             "error",
-            "never"
+            "always"
         ],
         "block-spacing": "error",
-        "brace-style": "error",
+        "brace-style": [
+            "error",
+            "1tbs",
+            {
+                "allowSingleLine": true
+            }
+        ],
         "comma-dangle": [
             "error",
             "always-multiline"
         ],
         "comma-spacing": "error",
-        "comma-style": "error",
+        "comma-style": [
+            "error",
+            "last"
+        ],
         "computed-property-spacing": "error",
         "eol-last": "error",
         "func-call-spacing": "error",
@@ -88,7 +97,13 @@
                 "SwitchCase": 1
             }
         ],
-        "key-spacing": "error",
+        "key-spacing": [
+            "error",
+            {
+                "beforeColon": false,
+                "afterColon": true
+            }
+        ],
         "line-comment-position": "error",
         "new-parens": "error",
         "no-inline-comments": "error",
@@ -122,6 +137,58 @@
 
         "no-template-curly-in-string": 1,
         "import/named": 2,
-        "radix": 0
+        "radix": 0,
+        "keyword-spacing": [
+            "error",
+            {
+                "overrides": {},
+                "before": true
+            }
+        ],
+        "wrap-iife": "error",
+        "space-before-function-paren": [
+            "error",
+            "always"
+        ],
+        "one-var": [
+            "error",
+            "never"
+        ],
+        "no-empty": [
+            "error",
+            {
+                "allowEmptyCatch": true
+            }
+        ],
+        "quote-props": [
+            "error",
+            "as-needed"
+        ],
+        "operator-linebreak": [
+            "error",
+            "after"
+        ],
+        "space-unary-ops": [
+            "error",
+            {
+                "words": false,
+                "nonwords": false
+            }
+        ],
+        "space-infix-ops": "error",
+        "no-multi-str": "error",
+        "no-multiple-empty-lines": "error",
+        "yoda": [
+            "error",
+            "never"
+        ],
+        "spaced-comment": [
+            "error",
+            "always"
+        ],
+        "func-style": [
+            "error",
+            "expression"
+        ]
     }
 }
