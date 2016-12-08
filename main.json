@@ -83,10 +83,7 @@
             "always-multiline"
         ],
         "comma-spacing": "error",
-        "comma-style": [
-            "error",
-            "last"
-        ],
+        "comma-style": "error",
         "computed-property-spacing": "error",
         "eol-last": "error",
         "func-call-spacing": "error",
