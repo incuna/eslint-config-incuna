@@ -68,7 +68,7 @@
         "no-use-before-define": "error",
         "array-bracket-spacing": [
             "error",
-            "always"
+            "never"
         ],
         "block-spacing": "error",
         "brace-style": [
