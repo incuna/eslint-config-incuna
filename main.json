@@ -95,6 +95,7 @@
         "no-tabs": "error",
         "no-trailing-spaces": "error",
         "no-whitespace-before-property": "error",
+        "space-before-blocks": "error",
         "object-curly-newline": [
             "error", {
                 "ObjectExpression": {
