@@ -122,6 +122,6 @@
 
         "no-template-curly-in-string": 1,
         "import/named": 2,
-        "radix": 0    
+        "radix": 0
     }
 }
