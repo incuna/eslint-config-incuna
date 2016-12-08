@@ -95,6 +95,7 @@
         "no-tabs": "error",
         "no-trailing-spaces": "error",
         "no-whitespace-before-property": "error",
+        "space-before-blocks": "error",
         "object-curly-newline": [
             "error", {
                 "ObjectExpression": {
@@ -121,6 +122,6 @@
 
         "no-template-curly-in-string": 1,
         "import/named": 2,
-        "radix": 0
+        "radix": 0    
     }
 }
