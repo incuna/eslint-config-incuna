@@ -2,7 +2,7 @@
 
 To use in your project:
 
-`npm install --save-dev eslint-config-incuna`
+`npm install --save-dev eslint-plugin-import eslint-config-incuna`
 
 Create a `.eslintrc.json` file and specify an `extends` property:
 ```json
