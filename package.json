@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-incuna",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Incuna eslint shared config",
   "main": "main.json",
   "scripts": {
