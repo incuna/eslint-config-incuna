@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/incuna/eslint-config-incuna#readme",
   "peerDependencies": {
-    "eslint": ">= 3",
+    "eslint": ">= 4",
     "eslint-plugin-import": ">= 2"
   }
 }
