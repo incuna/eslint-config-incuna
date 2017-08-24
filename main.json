@@ -106,10 +106,12 @@
             "error", {
                 "ObjectExpression": {
                     "minProperties": 3,
-                    "multiline": true
+                    "multiline": true,
+                    "consistent": true
                 },
                 "ObjectPattern": {
-                    "multiline": true
+                    "multiline": true,
+                    "consistent": true
                 }
             }
         ],
