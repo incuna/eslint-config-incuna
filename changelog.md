@@ -2,7 +2,7 @@
 
 This project uses Semantic Versioning (2.0).
 
-# Upcoming
+# 1.2.0
 
 * Allow newlines in objects of 1 or 2 properties, so long as the newlines are consistent
 
